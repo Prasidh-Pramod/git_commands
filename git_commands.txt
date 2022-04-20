@@ -2,3 +2,5 @@ git init
 git status
 git add -A
 git commit -m "changes"
+git remote add anyname path
+git remote -v
